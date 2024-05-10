@@ -3,7 +3,7 @@ import React from 'react'
 
 function Navbar() {
     return (
-        <div className='w-full flex justify-between items-center md:pt-10 py-4 md:py-0 md:px-0 px-4 border-b md:border-none'>
+        <div className='w-full flex justify-between items-center md:pt-10 py-4 md:py-0 md:px-0 px-4 border-b md:border-none sticky top-0 bg-white z-50'>
             <div className='text-lg font-semibold'>
                 ZenCoder
             </div>
