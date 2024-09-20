@@ -10,7 +10,8 @@ export default function Home() {
         <div className="fixed min-h-screen flex items-center bg-white z-40">
           <div className="fixed-sidebar md:border-0 border-t bg-white">
             <Sidebar />
-{/* this is sidebar */}
+            {/* this is sidebar */}
+            {/* this is sidebar */}
           </div>
         </div>
         <div className="w-full flex flex-col relative">
