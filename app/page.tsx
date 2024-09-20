@@ -12,6 +12,7 @@ export default function Home() {
             <Sidebar />
             {/* this is sidebar */}
             {/* this is sidebar */}
+            {/* this is sidebar */}
           </div>
         </div>
         <div className="w-full flex flex-col relative">
